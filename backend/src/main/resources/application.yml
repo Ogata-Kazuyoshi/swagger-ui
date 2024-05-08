@@ -1,0 +1,5 @@
+springdoc:
+  api-docs:
+    format: "yaml"
+  swagger-ui:
+    enable:true
